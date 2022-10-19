@@ -28,7 +28,7 @@ under the License.
         <fileSet filtered="true" packaged="true">
             <directory>src/main/java</directory>
         </fileSet>
-        <fileSet filtered="true" packaged="true">
+        <fileSet>
             <directory>src/main/resources</directory>
         </fileSet>
         <fileSet filtered="true" packaged="true">

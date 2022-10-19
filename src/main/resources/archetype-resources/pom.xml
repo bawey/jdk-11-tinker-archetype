@@ -93,6 +93,12 @@
             <artifactId>log4j-slf4j2-impl</artifactId>
             <version>${log4j.version}</version>
         </dependency>
+        <!-- FOR @PostConstruct and @PreDestroy  -->
+        <dependency>
+            <groupId>javax.annotation</groupId>
+            <artifactId>javax.annotation-api</artifactId>
+            <version>1.3.2</version>
+        </dependency>
     </dependencies>
 
     <build>
